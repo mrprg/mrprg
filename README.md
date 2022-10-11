@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mrprg
 - 👀 I’m interested in Front-end 
-- 🌱 I’m currently learning html & css, javascript
+- 🌱 I’m currently learning html & css, javascript & React js
 - 💞️ I’m looking to collaborate on any where that help me grow
 - 📫 How to reach me instagram(mohamadreza_9877)
 
