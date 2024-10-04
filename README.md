@@ -30,10 +30,6 @@ const whoAmI = [
 </p>
 
 
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=mrprg&theme=react-dark">
-</p> 
-
 ## Let's connect! 
 <!-- Hand shake: <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -->
 
@@ -53,7 +49,7 @@ const whoAmI = [
 
 ## Interests
 <p align="center">
-	<a href="http://arshamalh.github.io" target="_blank">
+	<div align="center" href="">
 		<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&duration=3000&center=true&lines=FrontEnd;Blockchain;Ethereum;Solidity">
-	</a>
+	</div>
 </p>
