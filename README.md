@@ -9,9 +9,9 @@ const whoAmI = [
     name: "mohamadreza",
     location: "Iran",
     profession: "FrontEnd Developer",
-    languages: "JavaScript , Typescript",
-    framworks: "Reactjs/Sveltejs/Nextjs/TailwindCss",
-    tools:"Git , Docker",
+    languages: ["JavaScript" , "Typescript"],
+    framworks: ["Reactjs","Sveltejs","Nextjs","TailwindCss"],
+    tools:["git" , "docker"],
     sytstem:"Windows",
   }
 ]
